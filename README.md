@@ -135,7 +135,7 @@ Se travar:
 
 **Objetivo:** Dominar entrada/saída, estruturas condicionais, laços e tipos de dados.
 
-- [✅] **Desafio 01** - [Calculadora de Gorjeta](./desafio-01-gorjeta/)
+- [x] **Desafio 01** - [Calculadora de Gorjeta](./desafio-01-gorjeta/)
   - `Scanner` • `operações matemáticas` • `formatação`
 - [ ] **Desafio 02** - [Validador de Senha Forte](./desafio-02-senha/)
   - `String` • `while` • `condicionais múltiplas`
@@ -223,11 +223,11 @@ Se travar:
 
 ### Conceitos Dominados ✅
 
-- [✅] Variáveis e tipos de dados
-- [✅] Estruturas condicionais (if/else)
-- [✅] Laços de repetição (for/while)
-- [✅] Arrays e ArrayList
-- [✅] Métodos e funções
+- [x] Variáveis e tipos de dados
+- [x] Estruturas condicionais (if/else)
+- [x] Laços de repetição (for/while)
+- [x] Arrays e ArrayList
+- [x] Métodos e funções
 - [ ] Classes e objetos
 - [ ] Construtores
 - [ ] Encapsulamento
