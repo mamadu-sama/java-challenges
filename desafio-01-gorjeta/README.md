@@ -242,16 +242,16 @@ double resultado = valorConta * (gorjeta / 100.0);   // ✅ CERTO!
 
 Antes de marcar como concluído, verifique:
 
-- [ ] Código compila sem erros
-- [ ] Aceita entrada do usuário (conta, pessoas, gorjeta)
-- [ ] Calcula gorjeta corretamente
-- [ ] Calcula total corretamente
-- [ ] Calcula valor por pessoa corretamente
-- [ ] Formata valores com 2 casas decimais
-- [ ] Saída está organizada e legível
-- [ ] Scanner foi fechado com `close()`
-- [ ] Testei com diferentes valores
-- [ ] Código está comentado (pelo menos os principais passos)
+- [✅] Código compila sem erros
+- [✅] Aceita entrada do usuário (conta, pessoas, gorjeta)
+- [✅] Calcula gorjeta corretamente
+- [✅] Calcula total corretamente
+- [✅] Calcula valor por pessoa corretamente
+- [✅] Formata valores com 2 casas decimais
+- [✅] Saída está organizada e legível
+- [✅] Scanner foi fechado com `close()`
+- [✅] Testei com diferentes valores
+- [✅] Código está comentado (pelo menos os principais passos)
 
 ---
 

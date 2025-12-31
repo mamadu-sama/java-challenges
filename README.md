@@ -55,12 +55,12 @@ Este repositório é meu método para sair dessa zona de conforto através de:
 
 ```
 🎯 Meta: 30 Desafios
-✅ Concluídos: 0
-⏳ Em Andamento: 0
-📝 Não Iniciados: 30
+✅ Concluídos: 1
+⏳ Em Andamento: 29
+📝 Não Iniciados: 29
 ```
 
-**Progresso:** 0% ████░░░░░░░░░░░░░░░░
+**Progresso:** 1% ████░░░░░░░░░░░░░░░░
 
 ---
 
@@ -135,7 +135,7 @@ Se travar:
 
 **Objetivo:** Dominar entrada/saída, estruturas condicionais, laços e tipos de dados.
 
-- [ ] **Desafio 01** - [Calculadora de Gorjeta](./desafio-01-gorjeta/)
+- [✅] **Desafio 01** - [Calculadora de Gorjeta](./desafio-01-gorjeta/)
   - `Scanner` • `operações matemáticas` • `formatação`
 - [ ] **Desafio 02** - [Validador de Senha Forte](./desafio-02-senha/)
   - `String` • `while` • `condicionais múltiplas`
@@ -223,11 +223,11 @@ Se travar:
 
 ### Conceitos Dominados ✅
 
-- [ ] Variáveis e tipos de dados
-- [ ] Estruturas condicionais (if/else)
-- [ ] Laços de repetição (for/while)
-- [ ] Arrays e ArrayList
-- [ ] Métodos e funções
+- [✅] Variáveis e tipos de dados
+- [✅] Estruturas condicionais (if/else)
+- [✅] Laços de repetição (for/while)
+- [✅] Arrays e ArrayList
+- [✅] Métodos e funções
 - [ ] Classes e objetos
 - [ ] Construtores
 - [ ] Encapsulamento
