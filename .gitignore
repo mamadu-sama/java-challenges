@@ -1,0 +1,14 @@
+*.class
+out/
+target/
+build/
+.gradle/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+!.env.example
